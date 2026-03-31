@@ -1,5 +1,11 @@
 # @changesets/action
 
+## 1.7.1
+
+### Patch Changes
+
+- [#502](https://github.com/changesets/action/pull/502) [`6002dbd`](https://github.com/changesets/action/commit/6002dbd987f49a3c0a134910d9c7bca975b79977) Thanks [@oshytiko](https://github.com/oshytiko)! - Making sure that `.changeset` information is picked up, when `cwd` parameter is provided
+
 ## 1.7.0
 
 ### Minor Changes
