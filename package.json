@@ -28,7 +28,7 @@
     "@octokit/plugin-throttling": "^11.0.3",
     "@types/mdast": "^3.0.0",
     "mdast-util-to-string": "^1.0.6",
-    "remark-parse": "^7.0.1",
+    "remark-parse": "^9.0.0",
     "remark-stringify": "^7.0.3",
     "semver": "^7.5.3",
     "unified": "^8.3.2"
